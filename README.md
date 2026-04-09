@@ -1,3 +1,6 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
 Cybersecurity Student
 Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundation in information security, cryptography, and network defense. Passionate about identifying vulnerabilities, analyzing threats, and strengthening digital infrastructures. Skilled in security tools, basic penetration testing, and incident response support. Continuously learning and exploring advanced cybersecurity concepts through hands-on practice and challenges. Adept at problem-solving, critical thinking, and working in dynamic environments. Seeking opportunities to contribute to organizational security while growing professionally in the cybersecurity domain. Committed to staying updated with evolving threats and technologies to ensure robust and reliable protection of systems and data.
@@ -9,15 +12,10 @@ Hack2Xploit – Hackathon 3.0 Winner 🏆
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-aryan-malto)
-
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____onix____)
-
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@malto_aryan) 
-
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmalto9@gmail.com)
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onix009)
 
 # 💻 Tech Stack:
@@ -30,9 +28,6 @@ Hack2Xploit – Hackathon 3.0 Winner 🏆
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryanmalto9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryanmalto9&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
