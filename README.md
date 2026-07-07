@@ -26,9 +26,13 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
     [<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-hackathon-ctf-activity-7446993234775449600-q_Z8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
-* Ideathon – Organized by the IBM Winner 🏆
+* Ideathon Winner🏆– Organized by the IBM 
 
     [<img src="https://media.licdn.com/dms/image/v2/D4E22AQGHeykCRxjEOA/feedshare-shrink_800/B4EZzhr0MtIIAg-/0/1773312885833?e=1784764800&v=beta&t=VX3st-xiu62pu8Mr8GDpzWj96_BgJJxSuB8zwAI3y5I" width="100">](https://www.linkedin.com/posts/s-aryan-malto_ideathon-innovation-ibm-activity-7437813338128097280-syUR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
+
+* Poster Presentation Winner 🏆– Organized by the IBM 
+
+    [<img src="https://media.licdn.com/dms/image/v2/D4E22AQFeietfbGUlGQ/feedshare-shrink_800/B4EZzhvZikIIAc-/0/1773313825239?e=1784764800&v=beta&t=ml8cSU_moCXJYkkgbQa3e1DwfZuOmo1xbg3cRqaVTyU" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-cyberawareness-ibmiceday-activity-7437817278257336320-0WDk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
 [<img src="https://images.credly.com/size/680x680/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
 [<img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">](https://www.credly.com/badges/4eb5728f-fb11-45cd-93a6-a3f953408c3b/public_url)
