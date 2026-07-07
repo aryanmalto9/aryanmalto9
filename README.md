@@ -24,7 +24,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
 
 # 📜 Certificates
-[<img src="https://images.credly.com/size/220x220/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/blob" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
+[<img src="https://images.credly.com/size/680x680/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/blob" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
 
 [<img src="https://images.credly.com/size/680x680/images/d93f9c40-fb19-4aae-ac34-4e068d391115/blob" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
 
