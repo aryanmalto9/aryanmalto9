@@ -6,8 +6,9 @@ Cybersecurity Student
 Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundation in information security, cryptography, and network defense. Passionate about identifying vulnerabilities, analyzing threats, and strengthening digital infrastructures. Skilled in security tools, basic penetration testing, and incident response support. Continuously learning and exploring advanced cybersecurity concepts through hands-on practice and challenges. Adept at problem-solving, critical thinking, and working in dynamic environments. Seeking opportunities to contribute to organizational security while growing professionally in the cybersecurity domain. Committed to staying updated with evolving threats and technologies to ensure robust and reliable protection of systems and data.
 
 
-* Hack2Xploit – Hackathon 3.0 Winner 🏆 
-[<img src="blob:https://thelogocreator.ai/c983c983-198e-404b-8fad-f3600f0edc6a" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-hackathon-ctf-activity-7446993234775449600-q_Z8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
+* Hack2Xploit – Hackathon 3.0 Winner 🏆
+
+[<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-hackathon-ctf-activity-7446993234775449600-q_Z8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-aryan-malto)
