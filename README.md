@@ -5,8 +5,9 @@
 Cybersecurity Student
 Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundation in information security, cryptography, and network defense. Passionate about identifying vulnerabilities, analyzing threats, and strengthening digital infrastructures. Skilled in security tools, basic penetration testing, and incident response support. Continuously learning and exploring advanced cybersecurity concepts through hands-on practice and challenges. Adept at problem-solving, critical thinking, and working in dynamic environments. Seeking opportunities to contribute to organizational security while growing professionally in the cybersecurity domain. Committed to staying updated with evolving threats and technologies to ensure robust and reliable protection of systems and data.
 
-* Hack2Xploit – Hackathon 3.0 Winner 🏆
 
+* Hack2Xploit – Hackathon 3.0 Winner 🏆 
+[<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-hackathon-ctf-activity-7446993234775449600-q_Z8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-aryan-malto)
@@ -17,6 +18,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmalto9@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onix009)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
+
+
 
 # 📜 Certificates
 [<img src="https://images.credly.com/size/680x680/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
