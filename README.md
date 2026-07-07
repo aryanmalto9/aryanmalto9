@@ -25,8 +25,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 # 📜 Certificates
 [<img src="https://images.credly.com/size/680x680/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
-
-[<img src="https://images.credly.com/size/680x680/images/d93f9c40-fb19-4aae-ac34-4e068d391115/blob" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
+[<img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">](https://www.credly.com/badges/4eb5728f-fb11-45cd-93a6-a3f953408c3b/public_url)
 
 [<img src="https://images.credly.com/size/680x680/images/caf78f37-b800-45b8-9822-7b5d35bbadd6/blob" width="100">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
 
