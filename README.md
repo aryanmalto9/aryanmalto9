@@ -60,10 +60,66 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 </a>
 
 
-### 🔝 Top Contributed Repo
-[![trophy](https://github-trophies.vercel.app/?username=aryanmalto9)](https://github.com/aryanmalto9/github-trophies)
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-[![](https://visitcount.itsvg.in/api?id=aryanmalto9&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://nirzak-streak-stats.vercel.app/?user=lucthienphong1120">
+          <img width="705" src="https://nirzak-streak-stats.vercel.app/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
