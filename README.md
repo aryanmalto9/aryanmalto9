@@ -28,9 +28,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [<img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">](https://www.credly.com/badges/4eb5728f-fb11-45cd-93a6-a3f953408c3b/public_url)
 [<img src="https://images.credly.com/size/220x220/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100">](https://www.credly.com/badges/7cca2e49-b356-49e9-8b73-6dbb7bf0f753/public_url)
 
-[<img src="https://images.credly.com/size/680x680/images/5ed0eac3-8986-4fab-a16b-cab70d4a920e/blob" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
-
-[<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
+[<img src="https://images.credly.com/size/220x220/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="100">](https://www.credly.com/badges/a2652dfb-364e-41b4-b348-452c1d3c6336/public_url)
+[<img src="https://images.credly.com/size/220x220/images/a7fb1975-56fe-4919-a20b-617920ad2a4f/image.png" width="100">](https://www.credly.com/badges/c39bb001-a48a-492d-90cc-09669e20238c/public_url)
 
 [<img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" width="100">](https://www.credly.com/badges/2722e59a-26df-4d5c-b8e2-2601ce3a3928)
 
