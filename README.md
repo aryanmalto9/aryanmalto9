@@ -21,7 +21,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onix009)
 
-[![Credly](https://www.credly.com/earner/dashboard)](https://www.credly.com/users/s-aryan-malto)
+[![Credly](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
 
 # 📜 Certificates
 [<img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100">](https://www.credly.com/badges/a6f3b169-ea7e-4883-a8e9-dd27c13e779f)
