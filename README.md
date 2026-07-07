@@ -1,7 +1,9 @@
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 💫 About Me:
+### 💫 About Me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 Cybersecurity Student
 Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundation in information security, cryptography, and network defense. Passionate about identifying vulnerabilities, analyzing threats, and strengthening digital infrastructures. Skilled in security tools, basic penetration testing, and incident response support. Continuously learning and exploring advanced cybersecurity concepts through hands-on practice and challenges. Adept at problem-solving, critical thinking, and working in dynamic environments. Seeking opportunities to contribute to organizational security while growing professionally in the cybersecurity domain. Committed to staying updated with evolving threats and technologies to ensure robust and reliable protection of systems and data.
 
@@ -12,8 +14,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-aryan-malto)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____onix____)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/1DjosbL8AP)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/______onix______?igsh=bWQ0bm9obmhxMjBw)
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@malto_aryan) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmalto9@gmail.com)
@@ -22,7 +24,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 
 
-# 📜 Certificates
+### 📜 Certificates
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 * Hack2Xploit – Hackathon 3.0 Winner 🏆
 
@@ -50,7 +53,9 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 
@@ -69,8 +74,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
   <tbody>
     <tr>
       <td>
-        <a href="https://nirzak-streak-stats.vercel.app/?user=lucthienphong1120">
-          <img width="705" src="https://nirzak-streak-stats.vercel.app/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://nirzak-streak-stats.vercel.app/?user=aryanmalto9">
+          <img width="705" src="https://nirzak-streak-stats.vercel.app/?user=aryanmalto9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -78,8 +83,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanmalto9">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanmalto9&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -87,8 +92,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120">
-          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120&theme=dracula">
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=aryanmalto9">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanmalto9&theme=dracula">
         </a>
       </td>
     </tr>
@@ -99,13 +104,13 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanmalto9">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanmalto9&theme=dracula"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanmalto9&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanmalto9&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -113,13 +118,13 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanmalto9">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanmalto9&theme=dracula"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanmalto9">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanmalto9&theme=dracula"/>
         </a>
       </td>
     </tr>
