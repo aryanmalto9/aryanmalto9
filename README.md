@@ -24,7 +24,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@malto_aryan) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmalto9@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onix009)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=C&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
+[![Credly](https://img.shields.io/badge/-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=M&logoColor=white)](https://medium.com/@aryanmalto9)
 
 
