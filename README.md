@@ -8,7 +8,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 * Hack2Xploit – Hackathon 3.0 Winner 🏆
 
-[<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-hackathon-ctf-activity-7446993234775449600-q_Z8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
+  [<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-hackathon-ctf-activity-7446993234775449600-q_Z8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-aryan-malto)
