@@ -65,7 +65,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 ### 💻 Tech Stack:
 
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-%2300599C.svg?style=for-the-badge&logo=CyberSecurity%2B%2B&logoColor=white) 
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-0A66C2?style=for-the-badge&logo=shield&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
