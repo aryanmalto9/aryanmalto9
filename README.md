@@ -10,17 +10,12 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-aryan-malto)
-
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____onix____)
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@malto_aryan) 
-
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmalto9@gmail.com)
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onix009)
-
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
 
 # 📜 Certificates
