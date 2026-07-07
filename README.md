@@ -30,7 +30,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmalto9&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryanmalto9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=aryanmalto9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryanmalto9&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
