@@ -1,18 +1,20 @@
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 💫 About Me:
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 💫 About Me:
 Cybersecurity Student
 Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundation in information security, cryptography, and network defense. Passionate about identifying vulnerabilities, analyzing threats, and strengthening digital infrastructures. Skilled in security tools, basic penetration testing, and incident response support. Continuously learning and exploring advanced cybersecurity concepts through hands-on practice and challenges. Adept at problem-solving, critical thinking, and working in dynamic environments. Seeking opportunities to contribute to organizational security while growing professionally in the cybersecurity domain. Committed to staying updated with evolving threats and technologies to ensure robust and reliable protection of systems and data.
 
 
 
 
-### 🌐 Socials:
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-aryan-malto)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/1DjosbL8AP)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/______onix______?igsh=bWQ0bm9obmhxMjBw)
@@ -24,9 +26,10 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 
 
-### 📜 Certificates
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 📜 Certificates
 * Hack2Xploit – Hackathon 3.0 Winner 🏆
 
     [<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-hackathon-ctf-activity-7446993234775449600-q_Z8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
@@ -53,23 +56,26 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 
 
-### 💻 Tech Stack:
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 
-### 🏆 GitHub Trophies
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🏆 GitHub Trophies
 <a href="https://github-trophies.vercel.app/?username=aryanmalto9" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=aryanmalto9&theme=radical&margin-w=4&margin-h=4">
 </a>
 
 
-### 📈 User Statistics
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 📈 User Statistics
 <table>
   <tbody>
     <tr>
