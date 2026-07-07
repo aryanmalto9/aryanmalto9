@@ -72,10 +72,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-%2300457C.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-
+![Nmap](https://img.shields.io/badge/Nmap-%2300457C.svg?style=for-the-badge&logo=nmap&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
