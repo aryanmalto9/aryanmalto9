@@ -72,6 +72,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [<img src="https://assets.tryhackme.com/img/badges/securityawareness.png" width="100">](https://tryhackme.com/Onix.09/badges/security-awareness?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 [<img src="https://assets.tryhackme.com/img/badges/linux.png" width="100">](https://tryhackme.com/Onix.09/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 
+[<img src="https://assets.tryhackme.com/img/badges/ohsint.png" width="100">](https://tryhackme.com/Onix.09/badges/ohsint?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
