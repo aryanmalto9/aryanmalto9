@@ -100,7 +100,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable%20Nessus-%2300C176.svg?style=for-the-badge&logo=tenable&logoColor=white)
 ![OSINT Framework](https://img.shields.io/badge/OSINT%20Framework-4CAF50?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)
