@@ -46,6 +46,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
     [<img src="https://media.licdn.com/dms/image/v2/D4E22AQFeietfbGUlGQ/feedshare-shrink_800/B4EZzhvZikIIAc-/0/1773313825239?e=1784764800&v=beta&t=ml8cSU_moCXJYkkgbQa3e1DwfZuOmo1xbg3cRqaVTyU" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-cyberawareness-ibmiceday-activity-7437817278257336320-0WDk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
+### Other:
+
 [<img src="https://images.credly.com/size/680x680/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
 [<img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">](https://www.credly.com/badges/4eb5728f-fb11-45cd-93a6-a3f953408c3b/public_url)
 [<img src="https://images.credly.com/size/220x220/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100">](https://www.credly.com/badges/7cca2e49-b356-49e9-8b73-6dbb7bf0f753/public_url)
