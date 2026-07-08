@@ -27,7 +27,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aryanmalto9)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3000-%23212C42?style=for-the-badge&logo=tryhackmelogoColor=Red)](https://tryhackme.com/p/Onix.09)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3000-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=Red)](https://tryhackme.com/p/Onix.09)
 
 
 
