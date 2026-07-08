@@ -22,12 +22,12 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/______onix______?igsh=bWQ0bm9obmhxMjBw)
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@malto_aryan) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmalto9@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onix009)
-[![Credly](https://img.shields.io/badge/-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=&logoColor=white)](https://medium.com/@aryanmalto9)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanmalto9@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/onix009)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/s-aryan-malto)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aryanmalto9)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3000-%23212C42?style=social&logo=tryhackme)](https://tryhackme.com/p/Onix.09)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Onix.09)
 
 
 
