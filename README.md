@@ -71,8 +71,14 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [<img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.png" width="100">](https://tryhackme.com/Onix.09/badges/intro-to-security-engineering?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 [<img src="https://assets.tryhackme.com/img/badges/securityawareness.png" width="100">](https://tryhackme.com/Onix.09/badges/security-awareness?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 [<img src="https://assets.tryhackme.com/img/badges/linux.png" width="100">](https://tryhackme.com/Onix.09/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+[<img src="https://assets.tryhackme.com/img/badges/iacsecurity.png" width="100">](https://tryhackme.com/Onix.09/badges/blue?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+[<img src="https://assets.tryhackme.com/img/badges/blue.png" width="100">](https://tryhackme.com/Onix.09/badges/iac-security?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 
 [<img src="https://assets.tryhackme.com/img/badges/ohsint.png" width="100">](https://tryhackme.com/Onix.09/badges/ohsint?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+[<img src="https://assets.tryhackme.com/img/badges/owasptop10.png" width="100">](https://tryhackme.com/Onix.09/badges/owasp-10?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+[<img src="https://assets.tryhackme.com/img/badges/soc-sim-first-alert-closed.png" width="100">](https://tryhackme.com/Onix.09/badges/soc-sim-first-alert-closed?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+[<img src="https://assets.tryhackme.com/img/badges/injection.png" width="100">](https://tryhackme.com/Onix.09/badges/sql-slayer?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+[<img src="https://assets.tryhackme.com/img/badges/investigations_badge.png" width="100">](https://tryhackme.com/Onix.09/badges/investigations?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 
 
 
