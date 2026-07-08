@@ -46,6 +46,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
     [<img src="https://media.licdn.com/dms/image/v2/D4E22AQFeietfbGUlGQ/feedshare-shrink_800/B4EZzhvZikIIAc-/0/1773313825239?e=1784764800&v=beta&t=ml8cSU_moCXJYkkgbQa3e1DwfZuOmo1xbg3cRqaVTyU" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-cyberawareness-ibmiceday-activity-7437817278257336320-0WDk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
+
+
 ### Other:
 
 [<img src="https://images.credly.com/size/680x680/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
@@ -60,7 +62,7 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [<img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100">](https://www.credly.com/badges/6c414c40-08e2-42f1-92ea-cf5601b55257/public_url)
 [<img src="https://images.credly.com/size/220x220/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png" width="100">](https://www.credly.com/badges/8b99a2a2-161e-4aba-a25b-4c6c5e263774/public_url)
 
-
+[<img src="https://assets.tryhackme.com/img/badges/linux.png" width="100">](https://tryhackme.com/Onix.09/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
