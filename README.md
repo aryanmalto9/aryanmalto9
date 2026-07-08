@@ -47,7 +47,11 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
     [<img src="https://media.licdn.com/dms/image/v2/D4E22AQFeietfbGUlGQ/feedshare-shrink_800/B4EZzhvZikIIAc-/0/1773313825239?e=1784764800&v=beta&t=ml8cSU_moCXJYkkgbQa3e1DwfZuOmo1xbg3cRqaVTyU" width="100">](https://www.linkedin.com/posts/s-aryan-malto_cybersecurity-cyberawareness-ibmiceday-activity-7437817278257336320-0WDk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
 
 * TryHackMe:
+  
   [<img src="https://tryhackme.com/images/pngs/certifications/cert.png" width="100">](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AJCFTUX8SS.pdf)
+  [<img src="https://tryhackme.com/images/pngs/certifications/cert.png" width="100">](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TFIJA1GAJ7.pdf)
+  [<img src="https://tryhackme.com/images/pngs/certifications/cert.png" width="100">](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BQKJL5SGSU.pdf)
+    [<img src="https://tryhackme.com/images/pngs/certifications/cert.png" width="100">](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VOYSDKJHBX.pdf)
 
 ### Other:
 
