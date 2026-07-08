@@ -67,7 +67,11 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [<img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100">](https://www.credly.com/badges/6c414c40-08e2-42f1-92ea-cf5601b55257/public_url)
 [<img src="https://images.credly.com/size/220x220/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png" width="100">](https://www.credly.com/badges/8b99a2a2-161e-4aba-a25b-4c6c5e263774/public_url)
 
+
+[<img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.png" width="100">](https://tryhackme.com/Onix.09/badges/intro-to-security-engineering?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+[<img src="https://assets.tryhackme.com/img/badges/securityawareness.png" width="100">](https://tryhackme.com/Onix.09/badges/security-awareness?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
 [<img src="https://assets.tryhackme.com/img/badges/linux.png" width="100">](https://tryhackme.com/Onix.09/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
