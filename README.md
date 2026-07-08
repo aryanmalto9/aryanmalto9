@@ -102,6 +102,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 ![OSINT Framework](https://img.shields.io/badge/OSINT%20Framework-4CAF50?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
