@@ -35,9 +35,9 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 
 ### 📜 Certificates:
 
-*Certified Cybersecurity Foundations (CORE)
+* Certified Cybersecurity Foundations (CORE)
 
-  [<img src="https://storage.hackviser.com/file/hackviser-prod/certificates/e64c4511c6f44fbfa6515e880b1bf777.webp" width="100">](https://hackviser.com/verify?id=HV-CORE-MBK7A1MF)
+    [<img src="https://storage.hackviser.com/file/hackviser-prod/certificates/e64c4511c6f44fbfa6515e880b1bf777.webp" width="100">](https://hackviser.com/verify?id=HV-CORE-MBK7A1MF)
 
     
 * Hack2Xploit – Hackathon 3.0 Winner 🏆
