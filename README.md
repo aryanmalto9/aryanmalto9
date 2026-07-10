@@ -28,7 +28,8 @@ Driven and detail-oriented aspiring Cyber Security Analyst with a strong foundat
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aryanmalto9)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Onix.09)
-
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](
+https://profile.hackthebox.com/profile/019cd1ee-ac6d-718d-b4bc-9dab86c8eddd)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
