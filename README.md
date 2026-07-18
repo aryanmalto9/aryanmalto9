@@ -59,7 +59,7 @@ https://profile.hackthebox.com/profile/019cd1ee-ac6d-718d-b4bc-9dab86c8eddd)
   [<img src="https://tryhackme.com/images/pngs/certifications/cert.png" width="100">](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BQKJL5SGSU.pdf)
     [<img src="https://tryhackme.com/images/pngs/certifications/cert.png" width="100">](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VOYSDKJHBX.pdf)
 
-### Other:
+### Other Badges:
 
 [<img src="https://images.credly.com/size/680x680/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100">](https://www.credly.com/badges/54deb51b-6bb9-44a0-b611-ece8523b6438/public_url)
 [<img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">](https://www.credly.com/badges/4eb5728f-fb11-45cd-93a6-a3f953408c3b/public_url)
@@ -72,6 +72,7 @@ https://profile.hackthebox.com/profile/019cd1ee-ac6d-718d-b4bc-9dab86c8eddd)
 
 [<img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100">](https://www.credly.com/badges/6c414c40-08e2-42f1-92ea-cf5601b55257/public_url)
 [<img src="https://images.credly.com/size/220x220/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png" width="100">](https://www.credly.com/badges/8b99a2a2-161e-4aba-a25b-4c6c5e263774/public_url)
+[<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/13d0ed55-bb7d-4141-9918-be869acf591b">](https://www.credly.com/badges/e022f92e-6919-4168-85b2-3d8d89fa6195/public_url)
 
 
 [<img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.png" width="100">](https://tryhackme.com/Onix.09/badges/intro-to-security-engineering?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69c3991f7bf47cd6266741ac)
