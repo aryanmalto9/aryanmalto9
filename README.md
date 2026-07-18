@@ -71,7 +71,7 @@ https://profile.hackthebox.com/profile/019cd1ee-ac6d-718d-b4bc-9dab86c8eddd)
 [<img src="https://images.credly.com/size/220x220/images/e3a07258-a514-47ef-9810-8cf41274a0ed/image.png" width="100">](https://www.credly.com/badges/9546381c-60ee-43de-ac87-0736506deb19/public_url)
 
 [<img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100">](https://www.credly.com/badges/6c414c40-08e2-42f1-92ea-cf5601b55257/public_url)
-[<img src="https://images.credly.com/size/160x160/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png" width="100">](https://www.credly.com/badges/8b99a2a2-161e-4aba-a25b-4c6c5e263774/public_url)
+[<img src="https://images.credly.com/size/128x128/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png" width="100">](https://www.credly.com/badges/8b99a2a2-161e-4aba-a25b-4c6c5e263774/public_url)
 [<img src="https://images.credly.com/size/220x220/images/dc127965-5e04-4d3d-87c2-83c981741c4a/image.png" width="100">](https://www.credly.com/badges/e022f92e-6919-4168-85b2-3d8d89fa6195/public_url)
 
 
