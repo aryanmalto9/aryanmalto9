@@ -46,7 +46,7 @@ https://profile.hackthebox.com/profile/019cd1ee-ac6d-718d-b4bc-9dab86c8eddd)
 
 * Ideathon Winner🏆– Organized by the IBM 
 
-    [<img src="https://media.licdn.com/dms/image/v2/D4E22AQGHeykCRxjEOA/feedshare-shrink_800/B4EZzhr0MtIIAg-/0/1773312885833?e=1784764800&v=beta&t=VX3st-xiu62pu8Mr8GDpzWj96_BgJJxSuB8zwAI3y5I" width="100">](https://www.linkedin.com/posts/s-aryan-malto_ideathon-innovation-ibm-activity-7437813338128097280-syUR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx9BrIBKxBek2B8aY7QzTYMk6jTec_p1zA)
+    [<img src="https://media.licdn.com/dms/image/v2/D4E22AQGHeykCRxjEOA/feedshare-shrink_800/B4EZzhr0MtIIAg-/0/1773312885833?e=1784764800&v=beta&t=VX3st-xiu62pu8Mr8GDpzWj96_BgJJxSuB8zwAI3y5I" width="100">](https://media.licdn.com/dms/image/v2/D4E22AQGHeykCRxjEOA/feedshare-shrink_800/B4EZzhr0MtIIAg-/0/1773312885833?e=1786579200&v=beta&t=MY-j66eFvQJdC-HWQejJJsio58-3Qxp5wv33kjJg1f0)
 
 * Poster Presentation Winner 🏆– Organized by the IBM 
 
