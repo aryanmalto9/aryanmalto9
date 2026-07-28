@@ -42,7 +42,7 @@ https://profile.hackthebox.com/profile/019cd1ee-ac6d-718d-b4bc-9dab86c8eddd)
     
 * Hack2Xploit – Hackathon 3.0 Winner 🏆
 
-    [<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](Hackathon Certificates.pdf)
+    [<img src="https://media.licdn.com/dms/image/v2/D4D22AQH3fGdlyugKYQ/feedshare-shrink_800/B4DZ1kI4PkJMAg-/0/1775501542696?e=1784764800&v=beta&t=nEgRhbFH73VAtYiRFg6DoJldGm5ojLPuED-Sws948K4" width="100">](https://github.com/aryanmalto9/aryanmalto9/blob/56b51d339be5408b2b7cc3a0c926c0bff01d828c/Hackathon%20Certificates.pdf)
 
 * Ideathon Winner🏆– Organized by the IBM 
 
